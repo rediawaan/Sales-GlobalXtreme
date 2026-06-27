@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="360" viewBox="0 0 520 360" role="img" aria-labelledby="title desc">
+  <title id="title">Router RG-EW6000GX Placeholder</title>
+  <desc id="desc">Placeholder foto router RG-EW6000GX.</desc>
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#ffcc00"/>
+      <stop offset="1" stop-color="#17c964"/>
+    </linearGradient>
+  </defs>
+  <rect width="520" height="360" rx="30" fill="#0a0f16"/>
+  <g transform="translate(65 74)">
+    <rect x="60" y="112" width="270" height="92" rx="24" fill="url(#g)"/>
+    <rect x="95" y="145" width="200" height="10" rx="5" fill="#111827"/>
+    <circle cx="115" cy="174" r="7" fill="#111827"/>
+    <circle cx="145" cy="174" r="7" fill="#111827"/>
+    <circle cx="175" cy="174" r="7" fill="#111827"/>
+    <path d="M88 115 L48 0" stroke="#ffffff" stroke-width="10" stroke-linecap="round" opacity="0.92"/>
+    <path d="M140 112 L120 0" stroke="#ffffff" stroke-width="10" stroke-linecap="round" opacity="0.92"/>
+    <path d="M250 112 L270 0" stroke="#ffffff" stroke-width="10" stroke-linecap="round" opacity="0.92"/>
+    <path d="M305 115 L345 0" stroke="#ffffff" stroke-width="10" stroke-linecap="round" opacity="0.92"/>
+  </g>
+  <text x="260" y="302" text-anchor="middle" fill="#ffcc00" font-family="Arial, sans-serif" font-size="26" font-weight="900">RG-EW6000GX</text>
+  <text x="260" y="330" text-anchor="middle" fill="#ffffff" fill-opacity="0.75" font-family="Arial, sans-serif" font-size="16" font-weight="700">[Foto Router]</text>
+</svg>

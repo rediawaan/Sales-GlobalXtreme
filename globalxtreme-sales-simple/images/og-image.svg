@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Open Graph Placeholder</title>
+  <desc id="desc">Placeholder gambar share media sosial.</desc>
+  <rect width="1200" height="630" fill="#111827"/>
+  <circle cx="1020" cy="90" r="260" fill="#ffcc00" opacity="0.18"/>
+  <rect x="80" y="94" width="1040" height="442" rx="44" fill="#172236"/>
+  <text x="120" y="220" fill="#ffcc00" font-family="Arial, sans-serif" font-size="34" font-weight="900">Sales Representative GlobalXtreme</text>
+  <text x="120" y="320" fill="#ffffff" font-family="Arial, sans-serif" font-size="68" font-weight="900">WiFi Rumah &amp; Bisnis</text>
+  <text x="120" y="385" fill="#ffffff" opacity="0.78" font-family="Arial, sans-serif" font-size="28" font-weight="700">Paket, promo, router gratis, dan konsultasi pemasangan.</text>
+  <rect x="120" y="430" width="280" height="72" rx="18" fill="#ffcc00"/>
+  <text x="260" y="477" text-anchor="middle" fill="#111827" font-family="Arial, sans-serif" font-size="25" font-weight="900">Hubungi WhatsApp</text>
+</svg>

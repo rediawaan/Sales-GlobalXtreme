@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Ganti URL sitemap setelah GitHub Pages aktif
+Sitemap: https://username.github.io/globalxtreme-sales-simple/sitemap.xml
